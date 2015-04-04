@@ -1,0 +1,25 @@
+This will install the ProjectSWG Launcher on your computer.  The ProjectSWG Launcher is required in order to connect to Project SWG services.
+
+By clicking agree, you agree to be bound by the following Terms of Use governing your use of this software and any subsequent updates to them. You agree that we may update these Terms of Use at any time without notice and that while we'll attempt to notify you of any updates to them, it is your responsibility to check for updates yourself. If you do not agree, then you must uninstall this software and remove all trace of it from your system. Failure to abide by these terms could leave you liable to legal action.
+
+1. Definitions
+
+1a. "Project SWG" hereinafter refers to a legal company entity whose shares are limited by guarantee and whom are registered with CompaniesHouse, the official company registrar in England, Wales, Scotland, Northern Ireland and the rest of the United Kingdom.
+
+1b. "We" or "we" hereinafter refers to "Project SWG" and any or all of its volunteers.
+
+1c. "This software", "this software" or "our software" hereinafter refers to this binary executable that you are currently running, its associated binary executable responsible for updating the software, all associated .cfg configuration files and any other files upon which it relies which we own the sole copyright to.
+
+1d. "ProjectSWG Launcher" hereinafter refers to this software.
+
+
+2. This software is provided "as is", with no warranties, express or implied, including the implied warranty of fitness for a particular purpose. In no event shall the Project SWG or its partners be liable for any damages, of any nature whatsoever, arising out of the use of, or the inability to use this software.
+
+
+3. You agree to have purchased, and currently own a valid and legal copy of, any software that you use in conjunction with our software and that you are the sole owner of that software. You may not run nor use any trial, evaluation, illegally-obtained or otherwise unlawful versions of any software in conjunction with our software.
+
+
+4. You may not use abuse, hack, exploit or otherwise modify the ProjectSWG Launcher in a way in which it was not obviously intended. You agree to utilize the software "as is", with no modifications or supporting third-party applications. Additionally, you agree only to accept updates to this software from Project SWG-approved servers.
+
+
+5. You agree not to modify or distribute, any files, patches, updates, software or other files obtained through the actions of this launcher.
